@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assignment 10.3</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 8px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<h2>Assignment 10.3</h2>
+<p><b>TABLE NAME:</b> STUDENT</p>
+<table>
+    <tr>
+        <th>ROLL NO</th>
+        <th>NAME</th>
+        <th>CLASS</th>
+        <th>SECTION</th>
+    </tr>
+    <tr>
+        <td>70801</td>
+        <td>A.PAL</td>
+        <td>XII</td>
+        <td>A</td>
+    </tr>
+    <tr>
+        <td>70839</td>
+        <td>T.MITRA</td>
+        <td>XII</td>
+        <td>B</td>
+    </tr>
+    <tr>
+        <td>70847</td>
+        <td>U.YADAV</td>
+        <td>XII</td>
+        <td>C</td>
+    </tr>
+</table>
+</body>
+</html>
